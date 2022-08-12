@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![kodluyoruz gorsel](/Patikadev/kodluyoruzilkrepo/kodluyoruz.jpeg)
+![kodluyoruz gorsel](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
 
 # Installation
 Öncelikle projeyi clonelayın. 
